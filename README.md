@@ -15,3 +15,6 @@ Pig is a classic dice game often played as a gambling or turn-based strategy gam
 - Random dice rolls
 - Score tracking
 - Simple and beginner-friendly logic
+
+  ## Technologies Used
+- Python
